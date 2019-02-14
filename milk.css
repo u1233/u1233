@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://i.gifer.com/DEh.gif');
+    background-color: black;
+}
+.bdaycard{
+    margin-left: 500px;
+    margin-top: 50px;
+    height: 500px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    font-family: 'Oleo script';
+    text-align: center;
+}
+.Sadia{
+    font-size: 32px;
+}
+.content{
+    font-size: 15px;
+}
+.fortnite{
+    height: 90px;
+    width: 90px;
+}
+@media only screen and (max-width: 900px) {
+    .bdaycard{
+        margin-left: 50px;
+        margin-top: 20px;
+        height: 500px;
+        width: 350px;
+        background-color: black;
+        color: white;
+        font-family: 'Oleo script';
+        text-align: center;
+    }
+  }

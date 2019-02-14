@@ -1,0 +1,24 @@
+body{
+   font-family: 'Oleo script';
+   background-image: linear-gradient(to right, rgb(209, 64, 166), rgb(255, 144, 177));
+}
+.welcome{
+    font-size: 72px;
+    font-weight:bold;
+    font-family: 'Oleo script';
+    color: white;
+}
+.text-center{
+    margin-top: 172px;
+}
+.milk{
+    font-family: 'Oleo script';
+    font-weight: bold;
+    color: black;
+    border: solid 2px white;
+    border-radius: 15px;
+}
+p{
+ color: white;
+ font-family: 'Oleo script';
+}
